@@ -4,3 +4,6 @@ VR Rhythm Riding Game
 
 BeatRiding 폴더에 Arduino파일을 따로 넣어놓았습니다.
 시리얼 포트를 맞게 바꾸어 unity와 arduino를 함께 실행해주시면 게임이 가능합니다.
+[![image](https://user-images.githubusercontent.com/54983139/196341776-873c4f37-fb43-49ac-a468-47704ee69b60.png)](https://youtu.be/taAlZWLYEfU)
+[![image](https://user-images.githubusercontent.com/54983139/196342223-48497a72-8f23-4e0b-b8be-13a398d97f3a.png)](https://youtu.be/vOACRT3UKcs)
+
